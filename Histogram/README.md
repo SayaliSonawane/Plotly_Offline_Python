@@ -6,3 +6,5 @@
 
 [](https://github.com/SayaliSonawane/Plotly_Offline_Python/tree/master/Histogram/Normalized%20Histogram?raw=true)
 
+
+
