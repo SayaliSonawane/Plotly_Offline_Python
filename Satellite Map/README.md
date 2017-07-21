@@ -10,3 +10,8 @@ This is interective chart and after zooming in, we can also cross check address 
 
 Here, North Platte is the city where starbucks is located.  
 ![](https://github.com/SayaliSonawane/Plotly_Offline_Python/blob/master/Satellite%20Map/Street%20View%20Style/starbucks_location_street_view.png?raw=true)
+
+<b> Satellite map in outdoors style </b>
+
+
+![](https://github.com/SayaliSonawane/Plotly_Offline_Python/blob/master/Satellite%20Map/Outdoor%20Style/satellite_map_outdoor_style.png?raw=true)
