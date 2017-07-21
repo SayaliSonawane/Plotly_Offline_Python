@@ -11,7 +11,7 @@ from plotly.graph_objs import Layout,Scatter
 
 # Define trace
 # Pass data values in trace directly
-# Using fill parameter we can change the color of overlapping area
+# Using fill parameter we can choose the color of overlapping area
 # possible value for fill: 'tonexty' or fill: 'tozeroy' 
 trace1 =Scatter(x=[1, 2, 3, 4],y=[0, 2, 3, 5],showlegend=True,marker = dict(color = 'rgb(128, 0, 0)',),name='Trace_1',fill='tozeroy')
 trace2 =Scatter(x=[1, 2, 3, 4],y=[3, 5, 1, 7],showlegend=True,marker = dict(color = 'rgb(0, 128, 0)',),name='Trace_2',fill='tonexty')
