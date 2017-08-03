@@ -45,4 +45,4 @@ plotly.offline.plot({
                                                         zeroline=False,
                                                         showline=True
                                                     ))
-                                  },filename='bubble_chart.html',image='jpeg')  
+                                  },filename='multi_trace_scatterplot.html',image='jpeg')  
